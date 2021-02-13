@@ -110,9 +110,11 @@ urlcolor: blue
 
 3. CEOs Social Capital and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Accounting Horizons*)
 
-4. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Auditing: A Journal of Practice & Theory*) 
+4. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Auditing: A Journal of Practice & Theory*)
 
-5. A Case Study of Data Analytics for Management (Cost) Accounting: An `R` Programming Approach (To be submitted in *Journal of Emerging Technologies in Accounting*)
+5. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah (To be Submitted in *Auditing: A Journal of Practice & Theory*)
+
+6. A Case Study of Data Analytics for Management (Cost) Accounting: An `R` Programming Approach (To be submitted in *Journal of Emerging Technologies in Accounting*)
 
 \vskip 0.2in
 
