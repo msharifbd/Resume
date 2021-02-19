@@ -93,13 +93,15 @@ urlcolor: blue
 
 2. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford (Under Review in *Journal of Accounting & Public Policy*)
 
-3. Outsourcing of Big Data Analytics in Internal Audit Function (IAF), with Nusrat Farah (Under Review in *Journal of Applied Accounting Research*)
+
 
 ## Working Papers for Submission
 
 1. Audit Committee Connectedness and Audit Outcomes, with William McCumber, Nusrat Farah, and William Stammerjohan (To be Submitted in *The Accounting Review*)
 
-2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford and Nusrat Farah (To be Submitted in *Managerial Auditing Journal*)
+2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford and Nusrat Farah (To be Submitted in *Managerial Auditing Journal*) 
+
+3. Outsourcing of Big Data Analytics in Internal Audit Function (IAF), with Nusrat Farah (To be Submitted in *Accounting Research Journal*)
 
 
 ## Work in Progress 
