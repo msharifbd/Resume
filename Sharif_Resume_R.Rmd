@@ -89,24 +89,25 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Under Review in *Auditing: A Journal of Practice & Theory*)  
+1. 20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination, with Ronald Guidry (Under Review in *Accounting Horizons*)
 
 2. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford (Under Review in *Journal of Accounting & Public Policy*)
 
+3. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford (Under Review in *International Journal of Auditing*) 
 
 
 ## Working Papers for Submission
 
 1. Audit Committee Connectedness and Audit Outcomes, with William McCumber, Nusrat Farah, and William Stammerjohan (To be Submitted in *The Accounting Review*)
 
-2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford and Nusrat Farah (To be Submitted in *Managerial Auditing Journal*) 
+2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (To be Submitted in *Accounting Horizons*) 
 
 3. Outsourcing of Big Data Analytics in Internal Audit Function (IAF), with Nusrat Farah (To be Submitted in *Accounting Research Journal*)
 
 
 ## Work in Progress 
 
-1. 20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination, with Ronald Guidry and William Stammerjohan (To be Submitted in *Accounting Horizons*)
+1. Data Analytics in Accounting: An `R` Programming Approach (To be submitted in *Journal of Emerging Technologies in Accounting*) 
 
 2. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah (To be submitted in *Information Systems Research*).
 
@@ -116,7 +117,6 @@ urlcolor: blue
 
 5. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah (To be Submitted in *Auditing: A Journal of Practice & Theory*)
 
-6. A Case Study of Data Analytics for Management (Cost) Accounting: An `R` Programming Approach (To be submitted in *Journal of Emerging Technologies in Accounting*)
 
 \vskip 0.2in
 
@@ -234,7 +234,8 @@ urlcolor: blue
 ## Services for the Discipline 
 
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021
-* Reviewer for Journal of Information Systems 2020.
+* Reviewer for Journal of Information Systems 2021, 2020.
+* Reviewer for American Accounting Association (AAA) SPARK Meeting 2021.
 * Discussant for American Accounting Association (AAA) AIS/SET Midyear Meeting 2020
 * Reviewer & Discussant for American Accounting Association (AAA) Midwest Region Meeting 2019
 * Reviewer for American Accounting Association (AAA) Accounting Information Systems (AIS) Section Midyear Meeting 2019
