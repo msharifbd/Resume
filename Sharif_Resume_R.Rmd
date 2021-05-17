@@ -235,6 +235,7 @@ urlcolor: blue
 
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
 * Reviewer for Information Systems Frontiers 2021.
+* Reviewer for The DATA BASE for Advances in Information Systems 2021.
 * Reviewer for Journal of Information Systems 2021, 2020.
 * Reviewer for American Accounting Association (AAA) SPARK Meeting 2021.
 * Discussant for American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
