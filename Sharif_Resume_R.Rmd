@@ -87,18 +87,17 @@ urlcolor: blue
 
 1. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, Forthcoming in *Journal of Accounting & Public Policy*.
 
-2. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377 – 409.
+2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, Forthcoming in *Managerial Auditing Journal*. 
+
+3. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377 – 409.
   
 ## Paper under Revision and Submission
 
 1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Under 3rd Round Review in *Journal of Emerging Technologies in Accounting*) 
 
-
 2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Preparing Revision for 2nd Round Review in *Accounting Horizons*) 
 
 3. Audit Committee Connectedness and Audit Outcomes, with William McCumber, Nusrat Farah, and William Stammerjohan (Under 1st Round Review in *Auditing: A Journal of Practice & Theory*)
-
-4. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford (Under 2nd Round Review in *Managerial Auditing Journal*) 
 
 
 ## Working Papers for Submission
@@ -138,6 +137,10 @@ urlcolor: blue
 5. **Islam, M.S.**, and Stammerjohan, W., “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
 
 6. **Islam, M.S.**, Stafford, T., and Stammerjohan, W., “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
+
+## Conference Attendance
+
+1. 2021 Accounting Information Systems Bootcamp Integrating Disruptive Technologies into the Accounting Curriculum, June 3-4, 2021, *Virtual Meeting*. 
 
 ## Conference Proceedings 
 
