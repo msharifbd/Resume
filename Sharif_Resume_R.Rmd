@@ -274,6 +274,8 @@ urlcolor: blue
 \vspace{-5truemm}
 
 * American Accounting Association (AAA)
+* American Accounting Association (AAA) - Audit Section
+* American Accounting Association (AAA) - Accounting Information Systems Section
 
 \vskip 0.2in
 
