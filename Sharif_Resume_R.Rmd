@@ -144,13 +144,13 @@ urlcolor: blue
 
 ## Conference Proceedings 
 
-7. **Islam, M.S.**, and Lee, J., “Internal Audit Function (IAF)’s Competencies and Cybersecurity Audit,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
+1. **Islam, M.S.**, and Lee, J., “Internal Audit Function (IAF)’s Competencies and Cybersecurity Audit,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
 
-8. Stafford, T., Wang, T., Syler, R., and **Islam, M.S.**, “Analytics for Accounting Information Systems Applications: A Research Panel,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
+2. Stafford, T., Wang, T., Syler, R., and **Islam, M.S.**, “Analytics for Accounting Information Systems Applications: A Research Panel,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
 
-9. **Islam, M.S.**, and Stafford, T., “Information Technology (IT) Integration and Cybersecurity/Security: The Security Savviness of Board of Directors,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
+3. **Islam, M.S.**, and Stafford, T., “Information Technology (IT) Integration and Cybersecurity/Security: The Security Savviness of Board of Directors,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
 
-10. **Islam, M.S.**, Jiang, R., and Stafford, T., “The Role of Accounting and Professional Associations in IT Security Auditing: A Research Panel,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
+4. **Islam, M.S.**, Jiang, R., and Stafford, T., “The Role of Accounting and Professional Associations in IT Security Auditing: A Research Panel,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
 
 \vskip 0.2in
 
@@ -177,8 +177,8 @@ urlcolor: blue
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (FALL 2019, SPRING 2020, FALL 2020, SPRING 2021, FALL 2021)
-* ACCT360 Accounting Information Systems (FALL 2019, SPRING 2020, FALL 2020, SPRING 2021, FALL 2021)
+* ACCT460 Auditing (FALL 2019, 2020, 2021; SPRING 2020, 2021, 2022)
+* ACCT360 Accounting Information Systems (FALL 2019, 2020, 2021; SPRING 2020, 2021)
 * BSAN405 Machine Learning (SPRING 2022)
 
 *Louisiana Tech University* - 
@@ -192,7 +192,7 @@ urlcolor: blue
 
 *Jahangirnagar University* - 
 
-* Business Matematics, Financial Accounting, Advanced Accounting
+* Business Matematics, Financial Accounting, Advanced Accounting, Business Communication, Introduction to Business
 
 
 \vskip 0.2in
