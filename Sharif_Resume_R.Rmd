@@ -64,7 +64,7 @@ urlcolor: blue
 
 **Certified Public Accountant (CPA)**, License No 065.051430 (Illinois) 
 
-**Chartered Management Accountant (CMA)**, Membership No A-1131 (Bangladesh)
+**Certified Management Accountant (CMA)**, Membership No A-1131 (Bangladesh)
 
 
 \vskip 0.2in
@@ -87,13 +87,13 @@ urlcolor: blue
 
 1. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, Forthcoming in *Journal of Accounting & Public Policy*.
 
-2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, Forthcoming in *Managerial Auditing Journal*. 
+2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193 – 223.. 
 
 3. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377 – 409.
   
 ## Paper under Revision and Submission
 
-1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Under 3rd Round Review in *Journal of Emerging Technologies in Accounting*) 
+1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Preparing Revision for 4th Round Review in *Journal of Emerging Technologies in Accounting*) 
 
 2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Preparing Revision for 2nd Round Review in *Accounting Horizons*) 
 
