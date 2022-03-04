@@ -126,17 +126,19 @@ urlcolor: blue
 
 ## Conference Presentation 
 
-1. **Islam, M.S.**, McCumber, W., Farah, N., and Stammerjohan, W., “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
+1. Li, Tianpei, **Islam, Sharif**, and McCumber, W., "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
 
-2. **Islam, M.S.**, Stafford, T., McCumber, W., and Farah, N., “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
+2. **Islam, M.S.**, McCumber, W., Farah, N., and Stammerjohan, W., “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
 
-3. **Islam, M.S.**, McCumber, W., Farah, N., and Qiu, H., “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
+3. **Islam, M.S.**, Stafford, T., McCumber, W., and Farah, N., “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
 
-4. **Islam, M.S.**, Stammerjohan, W., Stafford, T., and Farah, N., “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
+4. **Islam, M.S.**, McCumber, W., Farah, N., and Qiu, H., “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
 
-5. **Islam, M.S.**, and Stammerjohan, W., “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+5. **Islam, M.S.**, Stammerjohan, W., Stafford, T., and Farah, N., “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
 
-6. **Islam, M.S.**, Stafford, T., and Stammerjohan, W., “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
+6. **Islam, M.S.**, and Stammerjohan, W., “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+
+7. **Islam, M.S.**, Stafford, T., and Stammerjohan, W., “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
 
 ## Conference Attendance
 
@@ -259,6 +261,7 @@ urlcolor: blue
 
 ## Services in Jobs 
 
+* Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022
 * Faculty Advisor of Bangladesh Student Association (BSA) - SIUC 2021 - 2022
 * Member of School of Accountancy Curriculum Revision Committee - SIUC 2021
 * Representing School of Accountancy in 2021 SIUC Open House.
