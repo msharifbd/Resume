@@ -27,6 +27,7 @@ linkcolor: black
 urlcolor: blue
 ---
 
+
 \vskip 0.2in
 
 \noindent\rlap{\textbf{ACADEMIC APPOINTMENTS}}\rule[9pt]{\textwidth}{.10pt}
