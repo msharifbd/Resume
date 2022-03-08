@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.21)  6 MAR 2022 23:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.21)  8 MAR 2022 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -636,7 +636,7 @@ Here is how much of TeX's memory you used:
  29663 multiletter control sequences out of 15000+600000
  567737 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,12n,85p,1204b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,11n,85p,1204b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesom
 e/fontawesomethree.enc} <c:/Users/mshar/.texlive2020/texmf-var/fonts/pk/ljfour/
@@ -649,7 +649,7 @@ rs/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb
 lb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/pal
 atino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (6 pages, 124107 bytes).
+Output written on Sharif_Resume_R.pdf (6 pages, 124142 bytes).
 PDF statistics:
  197 PDF objects out of 1000 (max. 8388607)
  154 compressed objects within 2 object streams
