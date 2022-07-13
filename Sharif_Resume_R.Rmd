@@ -86,7 +86,7 @@ urlcolor: blue
 
 ## Publications 
 
-1. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, Forthcoming in *Journal of Accounting & Public Policy*.
+1. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916.
 
 2. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193 – 223. 
 
@@ -94,11 +94,13 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Preparing Revision for 4th Round Review in *Journal of Emerging Technologies in Accounting*) 
+1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Under 5th Round Review in *Journal of Emerging Technologies in Accounting*) 
 
-2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Preparing Revision for 2nd Round Review in *Accounting Horizons*) 
+2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Under 2nd Round Review in *Accounting Horizons*) 
 
-3. Audit Committee Connectedness and Audit Outcomes, with William McCumber, Nusrat Farah, and William Stammerjohan (Under 1st Round Review in *Auditing: A Journal of Practice & Theory*)
+3. Audit Committee Network Connections and Financial Reporting Timeliness, with Nusrat Farah, William McCumber, and William Stammerjohan (Under 1st Round Review in *Journal of Accounting and Public Policy*)
+
+4. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Under 1st Round Review in *Advances in Accounting*)
 
 
 ## Working Papers for Submission
@@ -114,9 +116,8 @@ urlcolor: blue
 
 2. CEOs Social Capital and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Accounting Horizons*)
 
-3. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Auditing: A Journal of Practice & Theory*)
 
-4. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah (To be Submitted in *Auditing: A Journal of Practice & Theory*)
+3. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah (To be Submitted in *Auditing: A Journal of Practice & Theory*)
 
 
 \vskip 0.2in
@@ -143,7 +144,8 @@ urlcolor: blue
 
 ## Conference Attendance
 
-1. 2021 Accounting Information Systems Bootcamp Integrating Disruptive Technologies into the Accounting Curriculum, June 3-4, 2021, *Virtual Meeting*. 
+1. 2022 Audit Educators' Bootcamp, June 21-23, 2022, Chicago, IL. 
+2. 2021 Accounting Information Systems Bootcamp Integrating Disruptive Technologies into the Accounting Curriculum, June 3-4, 2021, *Virtual Meeting*. 
 
 ## Conference Proceedings 
 
@@ -180,9 +182,9 @@ urlcolor: blue
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (FALL 2019, 2020, 2021; SPRING 2020, 2021, 2022)
-* ACCT360 Accounting Information Systems (FALL 2019, 2020, 2021; SPRING 2020, 2021)
-* BSAN405 Machine Learning (SPRING 2022)
+* ACCT460 Auditing (FALL 2019, 2020, 2021, 2022; SPRING 2020, 2021, 2022, 2023)
+* ACCT360 Accounting Information Systems (FALL 2019, 2020, 2021, 2022; SPRING 2020, 2021)
+* BSAN405 Machine Learning (SPRING 2022, 2023)
 
 *Louisiana Tech University* - 
 
@@ -203,6 +205,8 @@ urlcolor: blue
 \noindent\rlap{\textbf{HONORS \& AWARDS}}\rule[9pt]{\textwidth}{.10pt}
 
 \vspace{-5truemm}
+
+* Summer Faculty Research Grant (SFRG) 2022 ($4,000), College of Business & Analytics, Southern Illinois University Carbondale.
 
 * Best Research Paper Award 2021, American Accounting Association (AAA) 2021 Spark: Meeting of the Regions - Midwest Region on May 24-26, 2021.
 
@@ -242,6 +246,7 @@ urlcolor: blue
 
 ## Services for the Discipline 
 
+* Reviewer for American Accounting Association (AAA) Midwest Region Meeting 2022.
 * Reviewer for International Journal of Computer Auditing 2022. 
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
 * Reviewer for Information Systems Frontiers 2021.
@@ -263,6 +268,7 @@ urlcolor: blue
 
 ## Services in Jobs 
 
+* Representing School of Accountancy in 2022 SIUC Open House.
 * Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022
 * Faculty Advisor of Bangladesh Student Association (BSA) - SIUC 2021 - 2022
 * Member of School of Accountancy Curriculum Revision Committee - SIUC 2021
