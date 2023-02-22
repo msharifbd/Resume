@@ -14,8 +14,8 @@ fontawesome: yes
 email: mdshariful.islam@siu.com
 web: sharif.netlify.app
 github: msharifbd
-twitter: M. Sharif Islam
-#phone: "318-516-0128"
+twitter: MSharifIslam2
+# phone: "318-516-0128"
 #updated: no 
 
 keywords: R Markdown, academic CV, template
@@ -96,13 +96,15 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Preparing Revision for 6th Round Review in *Journal of Emerging Technologies in Accounting*) 
+1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Under 6th Round Review in *Journal of Emerging Technologies in Accounting*) 
 
-2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Preparing Revision 3rd Round Review in *Accounting Horizons*) 
+2. CEO Network Connections and Audit Timeliness, with William McCumber, Nusrat Farah, and Huan Qiu (Under 4th Round Review in *Accounting Horizons*) 
 
-3. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Preparing Revision for 2nd Round Review in *Advances in Accounting*)
+3. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Under 2nd Round Review in *Advances in Accounting*)
 
-4. Audit Committee Network Connections and Financial Reporting Timeliness, with Nusrat Farah, William McCumber, and William Stammerjohan (Under 1st Round Review in *Journal of Accounting and Public Policy*)
+4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams et al. (Preparing 2nd Round Revision for *Issues in Accounting Education* )
+
+5. Audit Committee Network Connections and Financial Reporting Timeliness, with Nusrat Farah, William McCumber, and William Stammerjohan (Under 1st Round Review in *Accounting Forum*)
 
 
 ## Working Papers for Submission
@@ -122,27 +124,29 @@ urlcolor: blue
 
 \vskip 0.2in
 
-\noindent\rlap{\textbf{CONFERENCE PRESENTATION \& PROCEEDINGS}}\rule[9pt]{\textwidth}{.10pt}
+\noindent\rlap{\textbf{CONFERENCE PRESENTATION, WORKSHOP \& PROCEEDING}}\rule[9pt]{\textwidth}{.10pt}
 
 \vspace{-5truemm}
 
-## Conference Presentation 
+## Conference Presentations & Workshops
 
-1. Farah, Nusrat, **Islam, Sharif**, Tadesse, Amanuel, and McCumber, W., "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework ," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
+1. Stafford, T, Wang, T, **Islam, S**, " Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
 
-2. Li, Tianpei, **Islam, Sharif**, and McCumber, W., "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
+2. Farah, N, **Islam, S**, Tadesse, A, and McCumber, W, "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework ," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
 
-3. **Islam, M.S.**, McCumber, W., Farah, N., and Stammerjohan, W., “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
+3. Li, T, **Islam, S**, and McCumber, W, "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
 
-4. **Islam, M.S.**, Stafford, T., McCumber, W., and Farah, N., “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
+4. **Islam, M.S**, McCumber, W, Farah, N, and Stammerjohan, W, “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
 
-5. **Islam, M.S.**, McCumber, W., Farah, N., and Qiu, H., “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
+5. **Islam, M.S.**, Stafford, T, McCumber, W, and Farah, N, “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
 
-6. **Islam, M.S.**, Stammerjohan, W., Stafford, T., and Farah, N., “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
+6. **Islam, M.S**, McCumber, W, Farah, N, and Qiu, H, “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
 
-7. **Islam, M.S.**, and Stammerjohan, W., “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+7. **Islam, M.S**, Stammerjohan, W, Stafford, T, and Farah, N, “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
 
-8. **Islam, M.S.**, Stafford, T., and Stammerjohan, W., “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
+8. **Islam, M.S**, and Stammerjohan, W, “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+
+9. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
 
 ## Conference Attendance
 
@@ -180,13 +184,13 @@ urlcolor: blue
 
 * ACCT591 Independent Study (Spring 2020)
 
-## Ungraduate Courses 
+## Undergraduate Courses 
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (FALL 2019, 2020, 2021, 2022; SPRING 2020, 2021, 2022, 2023)
-* ACCT360 Accounting Information Systems (FALL 2019, 2020, 2021, 2022; SPRING 2020, 2021)
-* BSAN405 Machine Learning (SPRING 2022, 2023)
+* ACCT460 Auditing (FALL 2019-2022; SPRING 2020-2023)
+* ACCT360 Accounting Information Systems (FALL 2019-2022; SPRING 2020-2021)
+* BSAN405 Machine Learning (SPRING 2022-2023)
 
 *Louisiana Tech University* - 
 
@@ -195,11 +199,11 @@ urlcolor: blue
 
 *University of Dhaka* - 
 
-* Business Statistics I, Auditing I
+* Business Statistics I, Auditing I.
 
 *Jahangirnagar University* - 
 
-* Business Matematics, Financial Accounting, Advanced Accounting, Business Communication, Introduction to Business
+* Business Mathematics, Financial Accounting, Advanced Accounting, Business Communication, Introduction to Business.
 
 
 \vskip 0.2in
