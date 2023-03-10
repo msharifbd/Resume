@@ -88,23 +88,23 @@ urlcolor: blue
 
 1. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, Forthcoming
 
-2. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916.
+2. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
 
-3. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. 
+3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams et al.,  *Issues in Accounting Education*, Forthcoming
 
-4. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102
+4. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916.
 
-5. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409.
+5. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. 
+
+6. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102
+
+7. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409.
   
 ## Paper under Revision and Submission
 
-1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse` (Under 6th Round Review in *Journal of Emerging Technologies in Accounting*) 
+1. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Under 2nd Round Review in *Advances in Accounting*)
 
-2. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Under 2nd Round Review in *Advances in Accounting*)
-
-3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams et al. (Preparing 2nd Round Revision for *Issues in Accounting Education* )
-
-4. Audit Committee Network Connections and Financial Reporting Timeliness, with Nusrat Farah, William McCumber, and William Stammerjohan (Under 1st Round Review in *Accounting Forum*)
+2. Audit Committee Network Connections and Financial Reporting Timeliness, with Nusrat Farah, William McCumber, and William Stammerjohan (Under 1st Round Review in *Accounting Forum*)
 
 
 ## Working Papers for Submission
@@ -190,7 +190,7 @@ urlcolor: blue
 
 * ACCT460 Auditing (FALL 2019-2022; SPRING 2020-2023)
 * ACCT360 Accounting Information Systems (FALL 2019-2022; SPRING 2020-2021)
-* BSAN405 Machine Learning (SPRING 2022-2023)
+* BSAN405 Machine Learning in Business (SPRING 2022-2023)
 
 *Louisiana Tech University* - 
 
