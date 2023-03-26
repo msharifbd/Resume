@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.14)  25 MAR 2023 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.14)  26 MAR 2023 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,8 +635,8 @@ Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
 (rerunfilecheck)             Checksum: 0A67E11CC721113AEFB6A8C9DBAF9BB5;1842.
  ) 
 Here is how much of TeX's memory you used:
- 13527 strings out of 477989
- 212737 string characters out of 5837889
+ 13528 strings out of 477989
+ 212744 string characters out of 5837889
  1862340 words of memory out of 5000000
  33432 multiletter control sequences out of 15000+600000
  544936 words of font info for 83 fonts, out of 8000000 for 9000
@@ -654,10 +654,10 @@ plrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/
 palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/
 fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (6 pages, 133212 bytes).
+Output written on Sharif_Resume_R.pdf (6 pages, 134031 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 59 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
