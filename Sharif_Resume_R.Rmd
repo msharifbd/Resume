@@ -90,7 +90,7 @@ urlcolor: blue
 
 2. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
 
-3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams et al.,  *Issues in Accounting Education*, Forthcoming
+3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, Forthcoming
 
 4. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916.
 
@@ -130,7 +130,7 @@ urlcolor: blue
 
 ## Conference Presentations & Workshops
 
-1. **Islam, M S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University. Carbdondale, IL
+1. **Islam, M.S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University. Carbdondale, IL
 
 2. Stafford, T, Wang, T, **Islam, S**, "Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
 
@@ -157,13 +157,13 @@ urlcolor: blue
 
 ## Conference Proceedings 
 
-1. **Islam, M.S.**, and Lee, J., “Internal Audit Function (IAF)’s Competencies and Cybersecurity Audit,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
+1. **Islam, M.S**, and Lee, J., “Internal Audit Function (IAF)’s Competencies and Cybersecurity Audit,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
 
 2. Stafford, T., Wang, T., Syler, R., and **Islam, M.S.**, “Analytics for Accounting Information Systems Applications: A Research Panel,” *Proceedings of the 2018 Americas Conference for Information Systems*. New Orleans, LA: Association for Information Systems.
 
-3. **Islam, M.S.**, and Stafford, T., “Information Technology (IT) Integration and Cybersecurity/Security: The Security Savviness of Board of Directors,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
+3. **Islam, M.S**, and Stafford, T., “Information Technology (IT) Integration and Cybersecurity/Security: The Security Savviness of Board of Directors,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
 
-4. **Islam, M.S.**, Jiang, R., and Stafford, T., “The Role of Accounting and Professional Associations in IT Security Auditing: A Research Panel,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
+4. **Islam, M.S**, Jiang, R., and Stafford, T., “The Role of Accounting and Professional Associations in IT Security Auditing: A Research Panel,” *Proceedings of the 2017 Americas Conference for Information Systems*. Boston, MA: Association for Information Systems.
 
 \vskip 0.2in
 
@@ -270,7 +270,7 @@ urlcolor: blue
 * Reviewer for 2018 Pre-ICIS Workshop on Information Security and Privacy.
 * Reviewer for International Conference on Information Systems (ICIS) 2018.
 * Reviewer for Americas Conference on Information Systems (AMCIS) 2018.
-* Reviewer for Managerial Auditing Journal for Cybersecurity Special Issue 2018.
+* Reviewer for Managerial Auditing Journal 2018 (Cybersecurity Special Issue), 2023.
 * Reviewer for Americas Conference on Information Systems (AMCIS) 2017.
 * Judge for 2016 Annual Undergraduate/Graduate Research Symposium in Louisiana Tech University, 2016.
 
