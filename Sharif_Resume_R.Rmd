@@ -90,7 +90,7 @@ urlcolor: blue
 
 2. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
 
-3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, Forthcoming. <https://doi.org/10.2308/ISSUES-2023-013>.
+3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 1-28. <https://doi.org/10.2308/ISSUES-2023-013>.
 
 4. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
 
@@ -213,6 +213,8 @@ urlcolor: blue
 \noindent\rlap{\textbf{HONORS \& AWARDS}}\rule[9pt]{\textwidth}{.10pt}
 
 \vspace{-5truemm}
+
+* Summer Faculty Research Grant (SFRG) 2023 ($5,000), School of Accountancy, College of Business & Analytics, Southern Illinois University Carbondale.
 
 * Summer Faculty Research Grant (SFRG) 2022 ($4,000), College of Business & Analytics, Southern Illinois University Carbondale.
 
