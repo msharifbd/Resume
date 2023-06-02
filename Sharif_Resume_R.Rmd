@@ -171,7 +171,7 @@ urlcolor: blue
 
 \vspace{-5truemm}
 
-**Data Analytics in Accounting: An R Programming Approach** (This is under progress using Rmarkdown/bookdown). Link of the Book - <https://daina.netlify.app/>
+[**Data Analytics in Accounting: An R Programming Approach**](https://daina.netlify.app/) (The book is under progress using `Rmarkdown/Bookdown`).
 
 
 \vskip 0.2in
