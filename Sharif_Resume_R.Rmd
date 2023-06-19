@@ -16,7 +16,7 @@ web: sharif.netlify.app
 github: msharifbd
 twitter: MSharifIslam2
 # phone: "318-516-0128"
-#updated: no 
+# updated: no 
 
 keywords: R Markdown, academic CV, template
 
@@ -102,7 +102,7 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Social Capital of Audit Committees and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (Preparing Revision for 3rd Round Review in *Advances in Accounting*)
+1. Impact of Audit Committee Social Capital on the Adoption of COSO (2013) Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber (Under 3rd Round Review in *Advances in Accounting*)
 
 2. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah, William McCumber, and William Stammerjohan (Preparing Revision for 2nd Round Review in *Accounting Forum*)
 

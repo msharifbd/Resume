@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.27)  2 JUN 2023 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.18)  18 JUN 2023 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Sharif_Resume_R.tex
 (./Sharif_Resume_R.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-22> (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+LaTeX2e <2023-06-01>
+L3 programming layer <2023-06-16>
+(c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -28,21 +29,21 @@ Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS)
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks16
+\@emptytoks=\toks17
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 For additional information on amsmath, use the `?' option.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks18
 \ex@=\dimen141
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -80,21 +81,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip16
 \c@parentequation=\count266
 \dspbrk@lvl=\count267
-\tag@help=\toks18
+\tag@help=\toks19
 \row@=\count268
 \column@=\count269
 \maxfields@=\count270
-\andhelp@=\toks19
+\andhelp@=\toks20
 \eqnshift@=\dimen144
 \alignsep@=\dimen145
 \tagshift@=\dimen146
 \tagwidth@=\dimen147
 \totwidth@=\dimen148
 \lineht@=\dimen149
-\@envbody=\toks20
+\@envbody=\toks21
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -119,8 +120,8 @@ LaTeX Font Info:    Trying to load font information for T1+pplj on input line 11
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
@@ -129,7 +130,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks25
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
@@ -144,7 +145,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen155
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks25
+\Gm@dimlist=\toks26
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -173,7 +174,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip54
 \ttl@plus=\dimen158
 \ttl@minus=\dimen159
-\ttl@toksa=\toks26
+\ttl@toksa=\toks27
 \titlewidth=\dimen160
 \titlewidthlast=\dimen161
 \titlewidthfirst=\dimen162
@@ -313,8 +314,8 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks27
-\XKV@tempa@toks=\toks28
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
 )
 \XKV@depth=\count286
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -353,8 +354,8 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 \dayofyear=\count310
 \dayofweek=\count311
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks29
-\dt@b=\toks30
+\dt@a=\toks30
+\dt@b=\toks31
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
@@ -443,7 +444,7 @@ File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 120.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 120.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
@@ -485,19 +486,23 @@ File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 {c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2] [3] [4] [5] [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Sharif_Resume_R.aux)
+ ***********
+LaTeX2e <2023-06-01>
+L3 programming layer <2023-06-16>
+ ***********
 Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
 (rerunfilecheck)             Checksum: 0A67E11CC721113AEFB6A8C9DBAF9BB5;1842.
  ) 
 Here is how much of TeX's memory you used:
- 13652 strings out of 477997
- 215971 string characters out of 5837877
- 1865779 words of memory out of 5000000
- 33547 multiletter control sequences out of 15000+600000
- 544936 words of font info for 83 fonts, out of 8000000 for 9000
+ 13422 strings out of 477683
+ 206979 string characters out of 5829577
+ 1864749 words of memory out of 5000000
+ 33636 multiletter control sequences out of 15000+600000
+ 546036 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,76p,1204b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1204b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (6 pages, 135072 bytes).
+Output written on Sharif_Resume_R.pdf (6 pages, 135055 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
