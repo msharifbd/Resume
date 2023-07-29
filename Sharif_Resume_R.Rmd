@@ -86,25 +86,25 @@ urlcolor: blue
 
 ## Publications 
 
-1. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
+1. Impact of Audit Committee Social Capital on the Adoption of COSO (2013) Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, Forthcoming
 
-2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
+2. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
 
-3. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 1-28. <https://doi.org/10.2308/ISSUES-2023-013>.
+3. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
 
-4. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
+4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 1-28. <https://doi.org/10.2308/ISSUES-2023-013>.
 
-5. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. <https://doi.org/10.1108/MAJ-04-2021-3090>. 
+5. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
 
-6. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102. <https://doi.org/10.22495/cocv19i4art8>.
+6. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. <https://doi.org/10.1108/MAJ-04-2021-3090>. 
 
-7. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409. <https://doi.org/10.1108/MAJ-07-2017-1595>.
+7. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102. <https://doi.org/10.22495/cocv19i4art8>.
+
+8. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409. <https://doi.org/10.1108/MAJ-07-2017-1595>.
   
 ## Paper under Revision and Submission
 
-1. Impact of Audit Committee Social Capital on the Adoption of COSO (2013) Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber (Under 3rd Round Review in *Advances in Accounting*)
-
-2. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah, William McCumber, and William Stammerjohan (Preparing Revision for 2nd Round Review in *Accounting Forum*)
+1. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah, William McCumber, and William Stammerjohan (Under Review in a Journal)
 
 
 ## Working Papers for Submission
