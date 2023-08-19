@@ -23,7 +23,7 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: black
+linkcolor: blue
 urlcolor: blue
 ---
 
@@ -86,18 +86,17 @@ urlcolor: blue
 
 ## Publications 
 
-1. Impact of Audit Committee Social Capital on the Adoption of COSO (2013) Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, Forthcoming
+1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2023. <https://doi.org/10.1016/j.adiac.2023.100685>
 
-2. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, Forthcoming 
+2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
 
-3. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
+3. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, 2023, 20 (2), 1-8. <https://doi.org/10.2308/JETA-2021-023> 
 
 4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 1-28. <https://doi.org/10.2308/ISSUES-2023-013>.
 
 5. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
 
 6. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. <https://doi.org/10.1108/MAJ-04-2021-3090>. 
-
 7. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102. <https://doi.org/10.22495/cocv19i4art8>.
 
 8. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409. <https://doi.org/10.1108/MAJ-07-2017-1595>.
@@ -117,14 +116,16 @@ urlcolor: blue
 
 1. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah (To be submitted in *Information Systems Research*).
 
-2. CEOs Social Capital and Adoption of COSO (2013) Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Accounting Horizons*)
+2. CEOs Social Capital and Adoption of COSO 2013 Internal Control Framework, with Amanuel Tadesse, Nusrat Farah, and William McCumber (To be Submitted in *Accounting Horizons*)
 
 3. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah (To be Submitted in *Auditing: A Journal of Practice & Theory*)
 
 
 \vskip 0.2in
 
-\noindent\rlap{\textbf{CONFERENCE PRESENTATION, WORKSHOP \& PROCEEDING}}\rule[9pt]{\textwidth}{.10pt}
+\newpage 
+
+\noindent\rlap{\textbf{CONFERENCE PRESENTATION, WORKSHOP \& PROCEEDINGS}}\rule[9pt]{\textwidth}{.10pt}
 
 \vspace{-5truemm}
 
@@ -190,8 +191,8 @@ urlcolor: blue
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (FALL 2019-2022; SPRING 2020-2023)
-* ACCT360 Accounting Information Systems (FALL 2019-2022; SPRING 2020-2021)
+* ACCT460 Auditing (FALL 2019-2023; SPRING 2020-2023)
+* ACCT360 Accounting Information Systems (FALL 2019-2023; SPRING 2020-2021)
 * BSAN405 Machine Learning in Business (SPRING 2022-2023)
 
 *Louisiana Tech University* - 
