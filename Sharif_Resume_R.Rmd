@@ -12,7 +12,7 @@ jobtitle: "Assistant Professor  \nSchool of Accountancy  \nSouthern Illinois Uni
 address: "Rehn Hall  · Room 216A · Carbondale, IL 62901"
 fontawesome: yes
 email: mdshariful.islam@siu.edu
-web: sharif.netlify.app
+web: msharifbd.netlify.app
 github: msharifbd
 twitter: MSharifIslam2
 # phone: "318-516-0128"
