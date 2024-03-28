@@ -86,7 +86,7 @@ urlcolor: blue
 
 ## Publications 
 
-1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2023. <https://doi.org/10.1016/j.adiac.2023.100685>
+1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2023, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
 
 2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
 
@@ -109,9 +109,11 @@ urlcolor: blue
 
 ## Working Papers for Submission
 
-1. How do Auditors Respond to 8-K Based Disclosures?, with Md Samsul Alam and Prem Puwanenthiren 
+1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren. 
 
-2. The Effect of Board Gender Diversity and Female Board Member IT expertise on Cybersecurity Risk, With Nusrat Farah, and Tom Stafford 
+2. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford.
+
+3. 8-K Disclosures and Trade Credit, with Md Samsul Alam, and Prem Puwanenthiren. 
 
 ## Work in Progress 
 
@@ -119,9 +121,7 @@ urlcolor: blue
 
 2. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah. 
 
-3. The Effect of 8-K Based Disclosures on Trade Credit, with Md Shamsul Alam and Prem Puwanenthiren.
-
-4. How do 8-K Based Disclosures affect Credit Rating?, with Md Shamsul Alam and Prem Puwanenthiren. 
+3. How do 8-K Based Disclosures affect Credit Rating?, with Md Shamsul Alam and Prem Puwanenthiren. 
 
 
 \vskip 0.2in
@@ -287,6 +287,7 @@ urlcolor: blue
 
 ## Services in Jobs 
 
+* Mentoring a High School Student for Junior Science and Humanities Symposium (JSHS), STEM Education Research Center, Southern Illinois University Carbondale. 
 * Representing School of Accountancy in 2019, 2021, 2022, and 2024 SIUC Open House.
 * Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022
 * Faculty Advisor of Bangladesh Student Association (BSA) - SIUC 2021 - 2022

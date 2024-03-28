@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.8)  9 MAR 2024 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.8)  27 MAR 2024 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,15 +545,15 @@ Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
 (rerunfilecheck)             Checksum: 0A67E11CC721113AEFB6A8C9DBAF9BB5;1842.
  ) 
 Here is how much of TeX's memory you used:
- 15604 strings out of 476055
- 243899 string characters out of 5790371
+ 15609 strings out of 476055
+ 243944 string characters out of 5790371
  1939190 words of memory out of 5000000
  37082 multiletter control sequences out of 15000+600000
- 606237 words of font info for 325 fonts, out of 8000000 for 9000
+ 606523 words of font info for 329 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1204b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (6 pages, 136822 bytes).
+Output written on Sharif_Resume_R.pdf (6 pages, 136952 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  176 compressed objects within 2 object streams
