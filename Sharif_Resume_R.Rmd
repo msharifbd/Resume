@@ -86,13 +86,13 @@ urlcolor: blue
 
 ## Publications 
 
-1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2023, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
+1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2024, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
 
-2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 1-31. <https://doi.org/10.2308/HORIZONS-2021-056>
+2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 117-147. <https://doi.org/10.2308/HORIZONS-2021-056>
 
-3. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, 2023, 20 (2), 1-8. <https://doi.org/10.2308/JETA-2021-023> 
+3. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, 2023, 20 (2), 243-250. <https://doi.org/10.2308/JETA-2021-023> 
 
-4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 1-28. <https://doi.org/10.2308/ISSUES-2023-013>.
+4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 81-108. <https://doi.org/10.2308/ISSUES-2023-013>.
 
 5. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
 
