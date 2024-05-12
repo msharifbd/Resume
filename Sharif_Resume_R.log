@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.8)  31 MAR 2024 11:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.31)  12 MAY 2024 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Sharif_Resume_R.tex
 (./Sharif_Resume_R.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2024-03-14>
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -127,7 +127,7 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
@@ -138,23 +138,23 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \MT@toks=\toks26
 \MT@tempbox=\box53
 \MT@count=\count275
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
-LaTeX Info: Redefining \leftprotrusion on input line 1060.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
 \MT@prot@toks=\toks27
-LaTeX Info: Redefining \rightprotrusion on input line 1078.
-LaTeX Info: Redefining \textls on input line 1368.
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
 \MT@outer@kern=\dimen150
-LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
 \MT@listname@count=\count276
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip53
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -204,7 +204,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip56
 \f@nch@O@elh=\skip57
 \f@nch@O@erh=\skip58
@@ -215,11 +215,11 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip63
 \f@nch@O@orf=\skip64
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (HMM)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
+Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count280
 ) 
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -379,7 +379,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box55
 ) (./Sharif_Resume_R.aux)
@@ -463,7 +463,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
@@ -534,29 +534,29 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
 [1
 
-{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2] [3] [4] [5] [6] 
+{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2] [3] [4] [5] [6] [7] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Sharif_Resume_R.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
 (rerunfilecheck)             Checksum: 0A67E11CC721113AEFB6A8C9DBAF9BB5;1842.
  ) 
 Here is how much of TeX's memory you used:
- 15609 strings out of 476055
- 243939 string characters out of 5790371
- 1939190 words of memory out of 5000000
- 37082 multiletter control sequences out of 15000+600000
- 606518 words of font info for 329 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 72i,11n,79p,1204b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 15612 strings out of 476002
+ 244006 string characters out of 5788980
+ 1940496 words of memory out of 5000000
+ 37107 multiletter control sequences out of 15000+600000
+ 606237 words of font info for 325 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 72i,11n,79p,1204b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (6 pages, 136899 bytes).
+Output written on Sharif_Resume_R.pdf (7 pages, 137796 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 63 named destinations out of 1000 (max. 500000)
  53337 words of extra memory for PDF output out of 61914 (max. 10000000)
 
