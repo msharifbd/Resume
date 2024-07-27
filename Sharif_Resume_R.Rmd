@@ -104,24 +104,25 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren.  (Under Review in a Journal)
+1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Under Review in a Journal).
 
 
 ## Working Papers for Submission
 
-1. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah and William McCumber 
+1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren.
 
 2. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford.
 
-3. 8-K Disclosures and Trade Credit, with Md Samsul Alam, and Prem Puwanenthiren. 
 
 ## Work in Progress 
 
-1. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
+1. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah and William McCumber 
 
-2. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah. 
+2. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
 
-3. How do 8-K Based Disclosures affect Credit Rating?, with Md Shamsul Alam and Prem Puwanenthiren. 
+3. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah. 
+
+
 
 
 \vskip 0.2in
@@ -192,15 +193,16 @@ urlcolor: blue
 
 *Southern Illinois University Carbondale* - 
 
+* ACCT561 Analytics for Accounting Data (Spring 2025) (Residential and Online)
 * ACCT591 Independent Study (Spring 2020)
 
 ## Undergraduate Courses 
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (Fall 2019-2023; Spring 2020-2024)
+* ACCT460 Auditing (Fall 2019-2024; Spring 2020-2024)
 * ACCT360 Accounting Information Systems (Fall 2019-2023; Spring 2020-2021)
-* BSAN405 Machine Learning in Business (Spring 2022-2024)
+* BSAN405 Machine Learning in Business (Spring 2022-2025)
 
 *Louisiana Tech University* - 
 
@@ -265,15 +267,15 @@ urlcolor: blue
 
 \vspace{-5truemm}
 
-## Services for the Discipline 
+## Services to the Profession 
 
-* Reviewer for American Accounting Association (AAA) Annual Meeting 2024.
+* Reviewer and Discussant for American Accounting Association (AAA) Annual Meeting 2024.
 * Reviewer for American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
-* Reviewer for International Journal of Computer Auditing 2022. 
+* Reviewer for *International Journal of Computer Auditing* 2022. 
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
-* Reviewer for Information Systems Frontiers 2021.
-* Reviewer for The DATA BASE for Advances in Information Systems 2021.
-* Reviewer for Journal of Information Systems 2020 and 2021.
+* Reviewer for *Information Systems Frontiers* 2021.
+* Reviewer for *The DATA BASE for Advances in Information Systems* 2021.
+* Reviewer for *Journal of Information Systems* 2020 and 2021.
 * Reviewer for American Accounting Association (AAA) SPARK Meeting 2021.
 * Discussant for American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
 * Discussant for American Accounting Association (AAA) Midwest Region Meeting 2019.
@@ -283,21 +285,22 @@ urlcolor: blue
 * Reviewer for 2018 Pre-ICIS Workshop on Information Security and Privacy.
 * Reviewer for International Conference on Information Systems (ICIS) 2018.
 * Reviewer for Americas Conference on Information Systems (AMCIS) 2018.
-* Reviewer for Managerial Auditing Journal 2018 (Cybersecurity Special Issue), 2023.
+* Reviewer for *Managerial Auditing Journal* 2018 (Cybersecurity Special Issue), 2023.
 * Reviewer for Americas Conference on Information Systems (AMCIS) 2017.
-* Judge for 2016 Annual Undergraduate/Graduate Research Symposium in Louisiana Tech University, 2016.
 
-## Services in Jobs 
+
+## Services to the University  
 
 * Mentor in 2024 Junior Science and Humanities Symposium (JSHS), STEM Education Research Center, Southern Illinois University Carbondale. 
 * Representing School of Accountancy in 2024, 2022, 2021, and 2019 SIUC Open House.
-* Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022
-* Faculty Advisor of Bangladesh Student Association (BSA) - SIUC 2021 - 2022
-* Member of School of Accountancy Curriculum Revision Committee - SIUC 2021
+* Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022.
+* Faculty Advisor of Bangladesh Student Association (BSA) - SIUC 2021 - 2022.
+* Member of School of Accountancy Curriculum Revision Committee - SIUC 2021.
 * Member of Steering Committee of School of Accountancy - SIUC 2020-2021.
 * Representing School of Accountancy in 2019 SIUC Day.
 * Representing School of Accountancy in Business Analytics Launching Program of College of Business in Chicago, IL on November 13, 2019.
 * Attending Board Meeting of Pontikes Center for Advanced Analytics and Artificial Intelligence in Chicago, IL on November 14, 2019.
+* Judge for 2016 Annual Undergraduate/Graduate Research Symposium in Louisiana Tech University, 2016.
 
 \vskip 0.2in
 
@@ -316,9 +319,10 @@ urlcolor: blue
 \vspace{-5truemm}
 
 * Advanced Knowledge in `R` Programming, including `RMarkdown`, `Quarto`, bookdown, and blogdown.
-* Python, SAS, STATA, SPSS, AMOS
-* Programming Language – Visual Basic and Java
-* Databases - PostgreSQL and DuckDB
+* Intermediate Knowledge in `Python` Programming. 
+* SAS, STATA, SPSS, AMOS.
+* Programming Language – Visual Basic and Java.
+* Databases - PostgreSQL and DuckDB.
 
 \vspace{-5truemm}
 
