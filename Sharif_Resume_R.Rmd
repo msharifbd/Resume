@@ -104,24 +104,30 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Under Review in a Journal).
+1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Under Review in *Auditing: A Journal of Practice & Theory*).
+
+2. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Under Review in *Accounting, Organizations and Society*)
 
 
 ## Working Papers for Submission
 
-1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren.
+1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (To be submitted in *Contemporary Accounting Research*)
 
-2. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford.
 
 
 ## Work in Progress 
 
-1. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah and William McCumber 
+1. What Sounds Good is True: Impact of CEO’s Vocal Attractiveness and Managerial Deception on 
+Analysts’ Behavior with Nusrat Farah and Doron Reichmann. 
 
-2. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
+2. Impact of Vocal Attractiveness on Auditors’ Fraud Risk Assessment, with Nusrat Farah 
 
-3. Impact of Mindfulness Training on Auditors' Performance during COVID - 19, with Nusrat Farah. 
+3. Are Cybersecurity Risk Disclosures Costly? Evidence from SEC Final Rule 33-11216 with 
+Nusrat Farah
 
+4. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah and William McCumber 
+
+5. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
 
 
 
@@ -269,9 +275,10 @@ urlcolor: blue
 
 ## Services to the Profession 
 
+* Member of Education Committee of Auditing Section of American Accounting Association (AAA) 2024-2027
 * Reviewer and Discussant for American Accounting Association (AAA) Annual Meeting 2024.
 * Reviewer for American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
-* Reviewer for *International Journal of Computer Auditing* 2022. 
+* Reviewer for *International Journal of Computer Auditing* 2024, 2022. 
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
 * Reviewer for *Information Systems Frontiers* 2021.
 * Reviewer for *The DATA BASE for Advances in Information Systems* 2021.

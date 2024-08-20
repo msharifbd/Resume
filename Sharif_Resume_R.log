@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.2)  27 JUL 2024 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.10)  20 AUG 2024 12:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Sharif_Resume_R.tex
 (./Sharif_Resume_R.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-07-20>
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -204,7 +204,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip57
 \f@nch@O@elh=\skip58
 \f@nch@O@erh=\skip59
@@ -215,15 +215,15 @@ Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
 \f@nch@O@olf=\skip64
 \f@nch@O@orf=\skip65
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
+Package: lastpage 2024/07/07 v2.1c lastpage: 2.09 or 2e? (HMM)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
-Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (HMM)
+Package: lastpage2e 2024/07/07 v2.1c Decide which 2e lastpage version to use (HMM)
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
-Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
+Package: lastpagemodern 2024-07-07 v2.1c Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count286
 ) 
 )) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -253,7 +253,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count288
 \Hy@pagecounter=\count289
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -261,7 +261,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count290
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -304,7 +304,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-05-23 v7.01i Hyperref driver for pdfTeX
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
 (c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -553,24 +553,24 @@ enddocument/afterlastpage: lastpage setting LastPage.
 (./Sharif_Resume_R.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-07-20>
  ***********
 Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
 (rerunfilecheck)             Checksum: 80A1DBE10B6F4302575FA1ED0E76F5CF;1890.
  ) 
 Here is how much of TeX's memory you used:
- 15737 strings out of 475482
- 246066 string characters out of 5773842
- 1939908 words of memory out of 5000000
- 37753 multiletter control sequences out of 15000+600000
+ 15740 strings out of 475477
+ 246103 string characters out of 5773741
+ 1940960 words of memory out of 5000000
+ 37759 multiletter control sequences out of 15000+600000
  606237 words of font info for 325 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  72i,12n,79p,1204b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (7 pages, 138334 bytes).
+Output written on Sharif_Resume_R.pdf (7 pages, 138976 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
- 62 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 64 named destinations out of 1000 (max. 500000)
  53337 words of extra memory for PDF output out of 61914 (max. 10000000)
 
