@@ -104,15 +104,13 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Under Review in *Auditing: A Journal of Practice & Theory*).
+1. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Under Review in a Journal)
 
-2. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Under Review in *Accounting, Organizations and Society*)
-
+2. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (Under Review in a Journal)
 
 ## Working Papers for Submission
 
-1. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (To be submitted in *Contemporary Accounting Research*)
-
+1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Ready to submit in a Journal).
 
 
 ## Work in Progress 
@@ -122,8 +120,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 2. Impact of Vocal Attractiveness on Auditors’ Fraud Risk Assessment, with Nusrat Farah 
 
-3. Are Cybersecurity Risk Disclosures Costly? Evidence from SEC Final Rule 33-11216 with 
-Nusrat Farah
+3. Are Cybersecurity Risk Disclosures Costly? Evidence from SEC Final Rule 33-11216 with Nusrat Farah
 
 4. Audit Committee Network Connections and the Timeliness of Financial Reporting, with Nusrat Farah and William McCumber 
 
@@ -141,29 +138,31 @@ Nusrat Farah
 
 ## Conference Presentations & Workshops
 
-1. **Islam, S**, Alam, S, Puwanenthiren, P, "How do Auditors Respond to Form 8-K Based Disclosures," *2024 AAA Annual Meeting*. Washington, DC: American Accounting Association.
+1. **Islam, S**, Farah, N, Stafford, T, "Do Women on the Board Mitigate Cybersecurity Risk?," *2025 AAA AIS/SET Section Midyear Meeting*. Boca Raton, FL: American Accounting Association. 
 
-2. Stafford, T., Lauck, J., **Islam, M.S.**, Wang, T., Khan, A., "The Growing Role of Process Automation in Internal Auditing: Further Explorations of Grounded Theory," *2024 AAA AIS/SET Section Midyear Meeting*. Atlanta, GA: American Accounting Association. 
+2. **Islam, S**, Alam, S, Puwanenthiren, P, "How do Auditors Respond to Form 8-K Based Disclosures," *2024 AAA Annual Meeting*. Washington, DC: American Accounting Association.
 
-3. **Islam, M.S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University, Carbdondale, IL.
+3. Stafford, T., Lauck, J., **Islam, M.S.**, Wang, T., Khan, A., "The Growing Role of Process Automation in Internal Auditing: Further Explorations of Grounded Theory," *2024 AAA AIS/SET Section Midyear Meeting*. Atlanta, GA: American Accounting Association. 
 
-4. Stafford, T, Wang, T, **Islam, S**, "Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
+4. **Islam, M.S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University, Carbdondale, IL.
 
-5. Farah, N, **Islam, S**, Tadesse, A, and McCumber, W, "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
+5. Stafford, T, Wang, T, **Islam, S**, "Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
 
-6. Li, T, **Islam, S**, and McCumber, W, "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
+6. Farah, N, **Islam, S**, Tadesse, A, and McCumber, W, "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
 
-7. **Islam, M.S**, McCumber, W, Farah, N, and Stammerjohan, W, “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
+7. Li, T, **Islam, S**, and McCumber, W, "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
 
-8. **Islam, M.S.**, Stafford, T, McCumber, W, and Farah, N, “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
+8. **Islam, M.S**, McCumber, W, Farah, N, and Stammerjohan, W, “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
 
-9. **Islam, M.S**, McCumber, W, Farah, N, and Qiu, H, “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
+9. **Islam, M.S.**, Stafford, T, McCumber, W, and Farah, N, “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
 
-10. **Islam, M.S**, Stammerjohan, W, Stafford, T, and Farah, N, “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
+10. **Islam, M.S**, McCumber, W, Farah, N, and Qiu, H, “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
 
-11. **Islam, M.S**, and Stammerjohan, W, “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+11. **Islam, M.S**, Stammerjohan, W, Stafford, T, and Farah, N, “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
 
-12. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
+12. **Islam, M.S**, and Stammerjohan, W, “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+
+13. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
 
 ## Conference Attendance
 
@@ -207,7 +206,7 @@ Nusrat Farah
 *Southern Illinois University Carbondale* - 
 
 * ACCT460 Auditing (Fall 2019-2024; Spring 2020-2024)
-* ACCT360 Accounting Information Systems (Fall 2019-2023; Spring 2020-2021)
+* ACCT360 Accounting Information Systems (Fall 2019-2024; Spring 2020-2021)
 * BSAN405 Machine Learning in Business (Spring 2022-2025)
 
 *Louisiana Tech University* - 
@@ -275,6 +274,9 @@ Nusrat Farah
 
 ## Services to the Profession 
 
+* Reviewer for American Accounting Association (AAA) Auditing Section Midyear Meeting 2025.
+* Reviewer for *Journal of Information Systems* 2024, 2021 and 2020.
+* Reviewer for American Accounting Association (AAA) AIS/SET Midyear Meeting 2025, 2019.
 * Member of Education Committee of Auditing Section of American Accounting Association (AAA) 2024-2027
 * Reviewer and Discussant for American Accounting Association (AAA) Annual Meeting 2024.
 * Reviewer for American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
@@ -282,7 +284,6 @@ Nusrat Farah
 * Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
 * Reviewer for *Information Systems Frontiers* 2021.
 * Reviewer for *The DATA BASE for Advances in Information Systems* 2021.
-* Reviewer for *Journal of Information Systems* 2020 and 2021.
 * Reviewer for American Accounting Association (AAA) SPARK Meeting 2021.
 * Discussant for American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
 * Discussant for American Accounting Association (AAA) Midwest Region Meeting 2019.
@@ -298,6 +299,9 @@ Nusrat Farah
 
 ## Services to the University  
 
+* Member of Doctoral Program Committee (DPC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
+* Presentation on Data Analytics in SIUC Day, Fall 2024.
+* Member of Scholarship Review Panel (Fellowship Committee) 2025, Graduate School, Southern Illinois University Carbondale.
 * Mentor in 2024 Junior Science and Humanities Symposium (JSHS), STEM Education Research Center, Southern Illinois University Carbondale. 
 * Representing School of Accountancy in 2024, 2022, 2021, and 2019 SIUC Open House.
 * Member of School of Accountancy Operating Paper Revision Committee - SIUC 2022.
