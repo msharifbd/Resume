@@ -38,7 +38,7 @@ urlcolor: blue
 
 **Louisiana Tech University**, Instructor, Computer Information Systems & Accounting \hfill 2018-2019
 
-**University of Dhaka**, Lecturer, Accounting & Information Systems \hfill 2013-2014
+**University of Dhaka**, Lecturer, Accounting & Information Systems \hfill 2013-2019
 
 **Jahangirnagar University**, Lecturer, Accounting & Information Systems \hfill 2011-2013
 
@@ -104,13 +104,15 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Under Review in a Journal)
+1. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Received Review & Resubmit (R&R) from *Journal of Information Systems*)
 
-2. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (Under Review in a Journal)
+2. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (Under Review in *The British Accounting Review*)
 
 ## Working Papers for Submission
 
-1. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Ready to submit in a Journal).
+1. Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions? with Nusrat Farah (Ready to Submit in *Behavioral Research in Accounting*) 
+
+2. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Ready to submit in *International Journal of Accounting Information Systems*).
 
 
 ## Work in Progress 
@@ -138,7 +140,8 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 ## Conference Presentations & Workshops
 
-1. **Islam, S**, Farah, N, Stafford, T, "Do Women on the Board Mitigate Cybersecurity Risk?," *2025 AAA AIS/SET Section Midyear Meeting*. Boca Raton, FL: American Accounting Association. 
+
+1. **Islam, S**, Farah, N, Stafford, T, "Do Women on the Board Mitigate Cybersecurity Risk?," *2025 AAA AIS/SET Section Midyear Meeting*. Boca Raton, FL: American Accounting Association. *2025 AAA Annual Meeting*. Chicago, IL: American Accounting Association.
 
 2. **Islam, S**, Alam, S, Puwanenthiren, P, "How do Auditors Respond to Form 8-K Based Disclosures," *2024 AAA Annual Meeting*. Washington, DC: American Accounting Association.
 
@@ -185,7 +188,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 \vspace{-5truemm}
 
-[**Data Analytics in Accounting: An R Programming Approach**](https://daina.netlify.app/) (The book is under progress).
+[**Analytics for Accounting Data**](https://analyticsforaccountingdata.netlify.app/) (The book is under progress).
 
 
 \vskip 0.2in
@@ -207,6 +210,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 * ACCT460 Auditing (Fall 2019-2024; Spring 2020-2024)
 * ACCT360 Accounting Information Systems (Fall 2019-2024; Spring 2020-2021)
+* ACCT331 Cost Accounting (Fall 2024)
 * BSAN405 Machine Learning in Business (Spring 2022-2025)
 
 *Louisiana Tech University* - 
@@ -274,31 +278,38 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 ## Services to the Profession 
 
-* Reviewer for American Accounting Association (AAA) Auditing Section Midyear Meeting 2025.
-* Reviewer for *Journal of Information Systems* 2024, 2021 and 2020.
-* Reviewer for American Accounting Association (AAA) AIS/SET Midyear Meeting 2025, 2019.
+Journal Reviewer/Editor
+
+* *International Journal of Accounting Information Systems* 2025.
+* *Journal of Information Systems* 2024, 2021 and 2020.
+* *Information Systems Frontiers* 2021.
+* *International Journal of Computer Auditing* 2024, 2022.
+* *The DATA BASE for Advances in Information Systems* 2021.
+* *Managerial Auditing Journal* 2018 (Cybersecurity Special Issue), 2023.
+* Senior Editor (SE) for *The DATA BASE for Advances in Information Systems* 2021.
+
+Conference Reviewer/Discussant/Committee Service
+
+* American Accounting Association (AAA) Auditing Section Midyear Meeting 2025.
+* American Accounting Association (AAA) AIS/SET Midyear Meeting 2025, 2019.
 * Member of Education Committee of Auditing Section of American Accounting Association (AAA) 2024-2027
-* Reviewer and Discussant for American Accounting Association (AAA) Annual Meeting 2024.
-* Reviewer for American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
-* Reviewer for *International Journal of Computer Auditing* 2024, 2022. 
-* Senior Editor (SE) for The DATA BASE for Advances in Information Systems 2021.
-* Reviewer for *Information Systems Frontiers* 2021.
-* Reviewer for *The DATA BASE for Advances in Information Systems* 2021.
-* Reviewer for American Accounting Association (AAA) SPARK Meeting 2021.
-* Discussant for American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
-* Discussant for American Accounting Association (AAA) Midwest Region Meeting 2019.
-* Reviewer for American Accounting Association (AAA) AIS/SET Midyear Meeting 2019.
-* Reviewer for International Conference on Information Systems (ICIS) 2019.
-* Reviewer for Americas Conference on Information Systems (AMCIS) 2019.
-* Reviewer for 2018 Pre-ICIS Workshop on Information Security and Privacy.
-* Reviewer for International Conference on Information Systems (ICIS) 2018.
-* Reviewer for Americas Conference on Information Systems (AMCIS) 2018.
-* Reviewer for *Managerial Auditing Journal* 2018 (Cybersecurity Special Issue), 2023.
-* Reviewer for Americas Conference on Information Systems (AMCIS) 2017.
+* American Accounting Association (AAA) Annual Meeting 2024.
+* American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
+* American Accounting Association (AAA) SPARK Meeting 2021.
+* American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
+* American Accounting Association (AAA) Midwest Region Meeting 2019.
+* American Accounting Association (AAA) AIS/SET Midyear Meeting 2019.
+* International Conference on Information Systems (ICIS) 2019.
+* Americas Conference on Information Systems (AMCIS) 2019.
+* 2018 Pre-ICIS Workshop on Information Security and Privacy.
+* International Conference on Information Systems (ICIS) 2018.
+* Americas Conference on Information Systems (AMCIS) 2018.
+* Americas Conference on Information Systems (AMCIS) 2017.
 
 
 ## Services to the University  
 
+* Member of Faculty Research Committee (FRC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
 * Member of Doctoral Program Committee (DPC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
 * Presentation on Data Analytics in SIUC Day, Fall 2024.
 * Member of Scholarship Review Panel (Fellowship Committee) 2025, Graduate School, Southern Illinois University Carbondale.
