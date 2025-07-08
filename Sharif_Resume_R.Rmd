@@ -134,8 +134,6 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 \vskip 0.2in
 
-\newpage 
-
 \noindent\rlap{\textbf{CONFERENCE PRESENTATION, WORKSHOP \& PROCEEDINGS}}\rule[9pt]{\textwidth}{.10pt}
 
 \vspace{-5truemm}
