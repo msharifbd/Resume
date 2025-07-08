@@ -34,7 +34,9 @@ urlcolor: blue
 
 \vspace{-5truemm}
 
-**Southern Illinois University Carbondale**, Assistant Professor \newline of Accountancy & Data Analytics \hfill 2019 - Current
+**Southern Illinois University Carbondale**, Associate Professor \newline of Accountancy & Data Analytics \hfill 2025 - Current
+
+**Southern Illinois University Carbondale**, Assistant Professor \newline of Accountancy & Data Analytics \hfill 2019 - 2025
 
 **Louisiana Tech University**, Instructor, Computer Information Systems & Accounting \hfill 2018-2019
 
@@ -208,9 +210,10 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT460 Auditing (Fall 2019-2024; Spring 2020-2024)
-* ACCT360 Accounting Information Systems (Fall 2019-2024; Spring 2020-2021)
-* ACCT331 Cost Accounting (Fall 2024)
+* ACCT460 Auditing (Fall 2019-2025; Spring 2020-2025)
+* ACCT431 Advanced Cost Accounting (Fall 2025)
+* ACCT360 Accounting Information Systems (Fall 2019-2024; Spring 2020-2021, 2025)
+* ACCT331 Cost Accounting (Fall 2025)
 * BSAN405 Machine Learning in Business (Spring 2022-2025)
 
 *Louisiana Tech University* - 
@@ -251,23 +254,23 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 * Barnes Scholarship for 2018-2019 ($4000), Louisiana Tech University.
 
-* Virginia Thompson Scholarship for 2018 – 2019 ($5000), Louisiana Tech University.
+* Virginia Thompson Scholarship 2018–2019 ($5000), Louisiana Tech University.
 
-* Virginia Thompson Scholarship for 2017 – 2018 ($1250), Louisiana Tech University.
+* Virginia Thompson Scholarship 2017–2018 ($1250), Louisiana Tech University.
 
-* Mansingh Memorial MBA Scholarship for 2015 ($500), School of Business, Eastern Illinois University
+* Mansingh Memorial MBA Scholarship 2015 ($500), School of Business, Eastern Illinois University
 
-* Foster C. Rinefort Scholarship ($500) for 2015, School of Business, Eastern Illinois University.
+* Foster C. Rinefort Scholarship 2015 ($500), School of Business, Eastern Illinois University.
 
-* Accounting Advisory Board Scholarship ($1000) for 2014, School of Business, Eastern Illinois University.
+* Accounting Advisory Board Scholarship 2014 ($1000), School of Business, Eastern Illinois University.
 
-* Scholarship for Becker Professional Education’s CPA Exam Review, Becker Professional Education, USA.
+* Scholarship for Becker Professional Education’s CPA Exam Review 2014, Becker Professional Education, USA.
 
 * Dean’s Merit List Award, Faculty of Business Studies, University of Dhaka.
 
-* Accounting Alumni Scholarship, Department of Accounting & Information Systems, University of Dhaka.
+* Accounting Alumni Scholarship 2008, Department of Accounting & Information Systems, University of Dhaka.
 
-* Excellence Award, ABM Khalid Memorial Trust, for being “Best Male Student” in BBA Program in University of Dhaka.
+* Excellence Award 2009, ABM Khalid Memorial Trust, for being “Best Male Student” in BBA Program in University of Dhaka.
 
 
 \vskip 0.2in
@@ -290,6 +293,7 @@ Journal Reviewer/Editor
 
 Conference Reviewer/Discussant/Committee Service
 
+* American Accounting Association (AAA) Accounting, Behavior, and Organizations (ABO) Section Midyear meeting 2025. 
 * American Accounting Association (AAA) Auditing Section Midyear Meeting 2025.
 * American Accounting Association (AAA) AIS/SET Midyear Meeting 2025, 2019.
 * Member of Education Committee of Auditing Section of American Accounting Association (AAA) 2024-2027
@@ -309,6 +313,7 @@ Conference Reviewer/Discussant/Committee Service
 
 ## Services to the University  
 
+* Advisor to Accounting Society 2025-2026, School of Accountancy, Southern Illinois University Carbondale
 * Member of Faculty Research Committee (FRC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
 * Member of Doctoral Program Committee (DPC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
 * Presentation on Data Analytics in SIUC Day, Fall 2024.
