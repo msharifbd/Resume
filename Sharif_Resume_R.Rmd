@@ -88,37 +88,40 @@ urlcolor: blue
 
 ## Publications 
 
-1. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2024, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
+1. Do Women on the Board Mitigate Cybersecurity Risks?, with Nusrat Farah, and Tom Stafford, *Journal of Information Systems*, 2026, Forthcoming. 
 
-2. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 117-147. <https://doi.org/10.2308/HORIZONS-2021-056>
+2. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2024, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
 
-3. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, 2023, 20 (2), 243-250. <https://doi.org/10.2308/JETA-2021-023> 
+3. CEO Network Connections and the Timeliness of Financial Reporting, with William McCumber, Nusrat Farah, and Huan Qiu, *Accounting Horizons*, 2023, 37 (4), 117-147. <https://doi.org/10.2308/HORIZONS-2021-056>
 
-4. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 81-108. <https://doi.org/10.2308/ISSUES-2023-013>.
+4. Accounting Data Analytics in `R`: A Case Study Using `tidyverse`, with Nusrat Farah and Tawei (David) Wang, *Journal of Emerging Technologies in Accounting*, 2023, 20 (2), 243-250. <https://doi.org/10.2308/JETA-2021-023> 
 
-5. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
+5. The `ChatGPT` Artificial Intelligence Chatbot: How Well Does It Answer Accounting Assessment Questions?, with David Wood, M. Achhpilia, M.T. Adams, N. Farah et al., *Issues in Accounting Education*, 2023, 38 (4), 81-108. <https://doi.org/10.2308/ISSUES-2023-013>.
 
-6. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. <https://doi.org/10.1108/MAJ-04-2021-3090>. 
+6. The Spillover Effect of Focal Firms' Cybersecurity Breaches on Rivals and the Role of CIO: Evidence from Stock Trading Volume, with Tawei (David) Wang, Nusrat Farah, and Tom Stafford, *Journal of Accounting & Public Policy*, 2022, 41 (2), 106916. <https://doi.org/10.1016/j.jaccpubpol.2021.106916>.
 
-7. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102. <https://doi.org/10.22495/cocv19i4art8>.
+7. Factors Associated with the Adoption of Data Analytics by Internal Audit Function (IAF), with Tom Stafford, *Managerial Auditing Journal*, 2022, 37(2), 193-223. <https://doi.org/10.1108/MAJ-04-2021-3090>. 
 
-8. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409. <https://doi.org/10.1108/MAJ-07-2017-1595>.
+8. CEO Social Capital and the Value Relevance of Accounting Metrics: International Evidence, with William McCumber and Huan Qiu, *Corporate Ownership & Control*, 2022, 19(4), 80-102. <https://doi.org/10.22495/cocv19i4art8>.
+
+9. Factors Associated with Security/Cybersecurity Audit by Internal Audit Function: An International Study, with Nusrat Farah and Tom Stafford, *Managerial Auditing Journal*, 2018, 33(4), 377-409. <https://doi.org/10.1108/MAJ-07-2017-1595>.
+
   
 ## Paper under Revision and Submission
 
-1. Do Women on the Board Mitigate Cybersecurity Risks?, With Nusrat Farah, and Tom Stafford (Received Review & Resubmit (R&R) from *Journal of Information Systems*)
+1. Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions?, with Nusrat Farah and Tom Stafford (Under Review in *The Accounting Review*)
 
-2. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (Under Review in *Journal of Business, Finance and Accounting*)
-
-3. Do Suppliers Care about Material Events? Evidence from Form 8-K Filings, with Muhammad Safiullah, Md Samsul Alam, and Prem Puwanenthiren (Under Review in *Contemporary Accounting Research*) 
 
 ## Working Papers for Submission
 
-1. Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions?, with Nusrat Farah (Ready to Submit in *Contemporary Accounting Research*) 
+1. Cognitive Foundations of Creativity: Linking Founding CEOs’ Cognitive Strengths to Creativity with Nusrat Farah (Ready to submit in a Journal).
 
-2. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan  (Ready to submit in *International Journal of Accounting Information Systems*).
+2. Are Form 8-K Disclosures Informative to Auditors?, with Gopal Krishnan, Md Samsul Alam, and Prem Puwanenthiren (Ready to submit in a Journal).
 
-3. Cognitive Foundations of Creativity: Linking Founding CEOs’ Cognitive Strengths to Creativity with Nusrat Farah (Ready to submit in a Journal)
+3. Do Suppliers Care about Material Events? Evidence from Form 8-K Filings, with Muhammad Safiullah, Md Samsul Alam, and Prem Puwanenthiren (Ready to submit in a Journal).   
+
+4. The Growing Role of Intelligent Automation in Auditing, with Tom Stafford, John Lauck, and Ajaan Khan (Ready to submit in a Journal).
+
 
 
 ## Work in Progress 
@@ -132,7 +135,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 4. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
 
-5. Chief Audit Executives (CAE) Network Connections and Audit Outcomes, with Nusrat Farah and Prem Puwanenthiren
+5. Chief Audit Executives (CAE) Network Connections and Audit Outcomes, with Nusrat Farah and Prem Puwanenthiren, and William McCumber.
 
 
 \vskip 0.2in
@@ -143,33 +146,35 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 ## Conference Presentations & Workshops
 
-1. Farah, N, **Islam, S**, Stafford, T, "Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions," *2025 Accounting Behavior and Organizations (ABO) Research Conference*. Indianapolis, IN: American Accounting Association.
+1. **Islam, S.**, Farah, N., "What Do Firms Disclose Regarding Cybersecurity? Evidence From Item 1C of 10-K," *2025 16th Annual Pre-ICIS Workshop on Accounting Information Systems (SIGASYS)*. Nashville, TN: Association of Information Systems (AIS).
 
-2. **Islam, S**, Farah, N, Stafford, T, "Do Women on the Board Mitigate Cybersecurity Risk?," *2025 AAA AIS/SET Section Midyear Meeting*. Boca Raton, FL: American Accounting Association. *2025 AAA Annual Meeting*. Chicago, IL: American Accounting Association.
+2. Stafford, T., Lauck, J., **Islam, M.S.**, Wang, T., Khan, A., "The Growing Role of Process Automation in Internal Auditing: Further Explorations of Grounded Theory," *2025 16th Annual Pre-ICIS Workshop on Accounting Information Systems (SIGASYS)*. Nashville, TN: Association of Information Systems (AIS). *2024 AAA AIS/SET Section Midyear Meeting*. Atlanta, GA: American Accounting Association.
 
-3. **Islam, S**, Alam, S, Puwanenthiren, P, "How do Auditors Respond to Form 8-K Based Disclosures," *2024 AAA Annual Meeting*. Washington, DC: American Accounting Association.
+3. Farah, N, **Islam, S**, Stafford, T, "Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions," *2025 Accounting Behavior and Organizations (ABO) Research Conference*. Indianapolis, IN: American Accounting Association.
 
-4. Stafford, T., Lauck, J., **Islam, M.S.**, Wang, T., Khan, A., "The Growing Role of Process Automation in Internal Auditing: Further Explorations of Grounded Theory," *2024 AAA AIS/SET Section Midyear Meeting*. Atlanta, GA: American Accounting Association. 
+4. **Islam, S**, Farah, N, Stafford, T, "Do Women on the Board Mitigate Cybersecurity Risk?," *2025 AAA AIS/SET Section Midyear Meeting*. Boca Raton, FL: American Accounting Association. *2025 AAA Annual Meeting*. Chicago, IL: American Accounting Association.
 
-5. **Islam, M.S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University, Carbdondale, IL.
+5. **Islam, S**, Alam, S, Puwanenthiren, P, "How do Auditors Respond to Form 8-K Based Disclosures," *2024 AAA Annual Meeting*. Washington, DC: American Accounting Association.
 
-6. Stafford, T, Wang, T, **Islam, S**, "Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
+6. **Islam, M.S**, Farah, N, McCumber, W, Stammerjohan, W, "Audit Committee Network Connections and the Timeliness of Financial Reporting," *2023 College of Business and Analytics (COBA) Seminar Series*, Southern Illinois University, Carbdondale, IL.
 
-7. Farah, N, **Islam, S**, Tadesse, A, and McCumber, W, "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
+7. Stafford, T, Wang, T, **Islam, S**, "Grounding Theories of Audit Analytics," *2023 AAA AIS/SET Section Midyear Meeting*. Las Vegas, NV: American Accounting Association. 
 
-8. Li, T, **Islam, S**, and McCumber, W, "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
+8. Farah, N, **Islam, S**, Tadesse, A, and McCumber, W, "Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework," *2022 AAA Midwest Region Meeting*. St. Louis, MO: American Accounting Association and *2022 Advances in Accounting Research Conference*. Bellingham, WA: Western Washington University. 
 
-9. **Islam, M.S**, McCumber, W, Farah, N, and Stammerjohan, W, “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
+9. Li, T, **Islam, S**, and McCumber, W, "Audit Committee Connectedness and Financial Reporting Complexity (FRC)," *2022 AAA Southwest Region Meeting*. New Orleans, LA: American Accounting Association.
 
-10. **Islam, M.S.**, Stafford, T, McCumber, W, and Farah, N, “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
+10. **Islam, M.S**, McCumber, W, Farah, N, and Stammerjohan, W, “Audit Committee Connectedness and Audit Outcomes,” *2021 SPARK Conference*: American Accounting Association; *Annual Meeting 2021*: American Accounting Association.
 
-11. **Islam, M.S**, McCumber, W, Farah, N, and Qiu, H, “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
+11. **Islam, M.S.**, Stafford, T, McCumber, W, and Farah, N, “Social Capital of Information Technology Executives and Data Breaches,” *2021 AAA AIS/SET Section Midyear Meeting*: American Accounting Association.
 
-12. **Islam, M.S**, Stammerjohan, W, Stafford, T, and Farah, N, “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
+12. **Islam, M.S**, McCumber, W, Farah, N, and Qiu, H, “Executive Network Centrality and Audit Timeliness,” *2020 SPARK Conference*: American Accounting Association.
 
-13. **Islam, M.S**, and Stammerjohan, W, “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+13. **Islam, M.S**, Stammerjohan, W, Stafford, T, and Farah, N, “Reaction of the Investors of Rival Firms to the Information Security Breach of Focal Firms: Evidence from Market Activity and Information Asymmetry,” *2020 AAA AIS/SET Section Midyear Meeting*. Orlando, FL: American Accounting Association.
 
-14. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
+14. **Islam, M.S**, and Stammerjohan, W, “20-F Reconciliation Requirement: A Review of the Literature before and after Its Elimination,” *2019 AAA Midwest Region Meeting*. Chicago, IL: American Accounting Association.
+
+15. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
 
 ## Conference Attendance
 
@@ -205,7 +210,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 *Southern Illinois University Carbondale* - 
 
-* ACCT561 Analytics for Accounting Data (Spring 2025) (Residential and Online)
+* ACCT561 Analytics for Accounting Data (Spring 2025-2026) (Residential and Online)
 * BA529A Accounting Analytics (Spring 2026) (Online)
 * ACCT591 Independent Study (Spring 2020)
 
@@ -319,6 +324,8 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 *Committee Services* 
 
+* Member of Faculty Search Committee 2026, School of Accountancy, Southern Illinois University of Carbondale.
+* Assessment of Learning (AOL) representative 2026 - 2027 from School of Accountancy, Southern Illinois University Carbondale.
 * Member of Strategic Planning Committee 2025, College of Business & Analytics, Southern Illinois University Carbondale.
 * Member of Faculty Research Committee (FRC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
 * Member of Doctoral Program Committee (DPC) 2025, College of Business & Analytics, Southern Illinois University Carbondale. 
