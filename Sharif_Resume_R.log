@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.8.16)  4 FEB 2026 14:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.8.16)  21 FEB 2026 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -567,21 +567,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `Sharif_Resume_R.out' has not changed.
-(rerunfilecheck)             Checksum: 80A1DBE10B6F4302575FA1ED0E76F5CF;1890.
+(rerunfilecheck)             Checksum: 8425273200EC70CA69B6D09E4028EE9E;1991.
  ) 
 Here is how much of TeX's memory you used:
- 15922 strings out of 475110
- 249692 string characters out of 5762175
- 689455 words of memory out of 5000000
+ 15919 strings out of 475110
+ 249699 string characters out of 5762175
+ 689474 words of memory out of 5000000
  38289 multiletter control sequences out of 15000+600000
- 606880 words of font info for 325 fonts, out of 8000000 for 9000
+ 606599 words of font info for 321 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,12n,79p,1204b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1204b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mshar/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Sharif_Resume_R.pdf (7 pages, 142032 bytes).
+Output written on Sharif_Resume_R.pdf (7 pages, 142717 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 70 named destinations out of 1000 (max. 500000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 72 named destinations out of 1000 (max. 500000)
  53337 words of extra memory for PDF output out of 61914 (max. 10000000)
 

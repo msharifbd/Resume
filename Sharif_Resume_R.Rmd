@@ -88,7 +88,7 @@ urlcolor: blue
 
 ## Publications 
 
-1. Do Women on the Board Mitigate Cybersecurity Risks?, with Nusrat Farah, and Tom Stafford, *Journal of Information Systems*, 2026, Forthcoming. 
+1. Do Women on the Board Mitigate Cybersecurity Risks?, with Nusrat Farah, and Tom Stafford, *Journal of Information Systems*, 2026, Forthcoming. <https://doi.org/10.2308/ISYS-2025-042> 
 
 2. Impact of Audit Committee Social Capital on the Adoption of COSO 2013 Framework, with  Nusrat Farah, Amanuel Tadesse, and William McCumber, *Advances in Accounting*, 2024, 64, 100685. <https://doi.org/10.1016/j.adiac.2023.100685>
 
@@ -109,7 +109,7 @@ urlcolor: blue
   
 ## Paper under Revision and Submission
 
-1. Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions?, with Nusrat Farah and Tom Stafford (Under Review in *The Accounting Review*)
+1. Pitch Like a Man to Fit in? How Do Gender and Product Gender Congruence Affect Investors' Decisions?, with Nusrat Farah and Tom Stafford (Under Review in *Accounting, Organizations and Society*)
 
 
 ## Working Papers for Submission
@@ -135,7 +135,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 4. Social Capital of Information Technology Executives and Data Breaches, with Tom Stafford, William McCumber, and Nusrat Farah.
 
-5. Chief Audit Executives (CAE) Network Connections and Audit Outcomes, with Nusrat Farah and Prem Puwanenthiren, and William McCumber.
+5. Chief Audit Executives (CAE) Busyness and Audit Outcomes, with Nusrat Farah and Prem Puwanenthiren, and William McCumber.
 
 
 \vskip 0.2in
@@ -144,7 +144,7 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 \vspace{-5truemm}
 
-## Conference Presentations & Workshops
+## Research Conference Presentations & Workshops
 
 1. **Islam, S.**, Farah, N., "What Do Firms Disclose Regarding Cybersecurity? Evidence From Item 1C of 10-K," *2025 16th Annual Pre-ICIS Workshop on Accounting Information Systems (SIGASYS)*. Nashville, TN: Association of Information Systems (AIS).
 
@@ -176,10 +176,12 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 15. **Islam, M.S**, Stafford, T, and Stammerjohan, W, “Big Data Analytics Challenges & Internal Audit Function (IAF)’s Reliance on Big Data Analytics,” *2019 AAA AIS/SET Section Midyear Meeting*. San Antonio, TX: American Accounting Association and *2019 AAA Southwest Region Meeting*. Houston, TX: American Accounting Association.
 
-## Conference Attendance
+## Education Conference Attendance
 
-1. 2022 Audit Educators' Bootcamp, June 21-23, 2022, Chicago, IL. 
-2. 2021 Accounting Information Systems Bootcamp Integrating Disruptive Technologies into the Accounting Curriculum, June 3-4, 2021, *Virtual Meeting*. 
+1. Accounting Accreditation Seminar, AACSB, February 26, 2026, Nashville, IL.
+2. Preparing for a Successful CIR Visit Workshop, AACSB, February 20, 2026, Southern Illinois University, Carbondale, IL. 
+3. 2022 Audit Educators' Bootcamp, June 21-23, 2022, Chicago, IL. 
+4. 2021 Accounting Information Systems Bootcamp Integrating Disruptive Technologies into the Accounting Curriculum, June 3-4, 2021, *Virtual Meeting*. 
 
 ## Conference Proceedings 
 
@@ -302,11 +304,11 @@ Analysts’ Behavior with Nusrat Farah and Doron Reichmann.
 
 *Conference Reviewer/Discussant/Committee Service*
 
+* American Accounting Association (AAA) Annual Meeting 2026, 2025, and 2024.
 * American Accounting Association (AAA) AIS/SET Midyear Meeting 2026, 2025, 2019.
 * American Accounting Association (AAA) Accounting, Behavior, and Organizations (ABO) Section Midyear meeting 2025. 
 * American Accounting Association (AAA) Auditing Section Midyear Meeting 2025.
 * Member of Education Committee of Auditing Section of American Accounting Association (AAA) 2024-2027
-* American Accounting Association (AAA) Annual Meeting 2024.
 * American Accounting Association (AAA) Midwest Region Meeting 2022, 2019, and 2018.
 * American Accounting Association (AAA) SPARK Meeting 2021.
 * American Accounting Association (AAA) AIS/SET Midyear Meeting 2020.
